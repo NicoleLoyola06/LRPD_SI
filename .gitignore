@@ -9,9 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Outputs generados (opcional, puedes quitarlo si quieres subir los graficos)
-outputs/graficos/
-outputs/reportes/
 
 # Archivos del sistema
 .DS_Store
