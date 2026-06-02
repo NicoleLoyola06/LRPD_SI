@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outputs generados (opcional, puedes quitarlo si quieres subir los graficos)
+outputs/graficos/
+outputs/reportes/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
