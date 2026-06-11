@@ -1,501 +1,501 @@
-codigo_producto,nombre_producto,accion
-P0001,Mascarilla coreana,Alerta de sobrestock
-P0002,Sarten antiadherente,Monitorear
-P0003,Repisa modular,Alerta de sobrestock
-P0004,Mini ventilador USB,Monitorear
-P0005,Taza termica,Reabastecimiento urgente
-P0006,Incienso japones,Monitorear
-P0007,Caja multiuso,Monitorear
-P0008,Mascarilla coreana,Alerta de sobrestock
-P0009,Fideos udon,Monitorear
-P0010,Mini ventilador USB,Alerta de sobrestock
-P0011,Mochi,Monitorear
-P0012,Polo basico,Monitorear
-P0013,Pijama,Monitorear
-P0014,Palillos chinos,Alerta de sobrestock
-P0015,Pijama,Monitorear
-P0016,Cepillo facial,Monitorear
-P0017,Cable Tipo C,Reabastecimiento urgente
-P0018,Farol decorativo,Monitorear
-P0019,Sarten antiadherente,Monitorear
-P0020,Te verde japones,Monitorear
-P0021,Polo basico,Alerta de sobrestock
-P0022,Salsa de soya,Monitorear
-P0023,Te verde japones,Monitorear
-P0024,Incienso japones,Monitorear
-P0025,Cuaderno kawaii,Monitorear
-P0026,Escoba plegable,Monitorear
-P0027,Caja multiuso,Monitorear
-P0028,Plato para mascotas,Monitorear
-P0029,Audifonos Bluetooth,Monitorear
-P0030,Cuaderno kawaii,Monitorear
-P0031,Arena para gato,Monitorear
-P0032,Mochi,Monitorear
-P0033,Polo basico,Monitorear
-P0034,Polo basico,Alerta de sobrestock
-P0035,Polo basico,Monitorear
-P0036,Incienso japones,Monitorear
-P0037,Taza termica,Monitorear
-P0038,Juguete para perro,Monitorear
-P0039,Cable Tipo C,Monitorear
-P0040,Salsa de soya,Monitorear
-P0041,Luz LED USB,Monitorear
-P0042,Organizador plastico,Monitorear
-P0043,Taza termica,Monitorear
-P0044,Farol decorativo,Monitorear
-P0045,Figura Feng Shui,Monitorear
-P0046,Figura Feng Shui,Monitorear
-P0047,Luz LED USB,Monitorear
-P0048,Crema hidratante,Monitorear
-P0049,Arena para gato,Alerta de sobrestock
-P0050,Vaporizador de bambu,Reabastecimiento urgente
-P0051,Ramen coreano,Monitorear
-P0052,Caja multiuso,Monitorear
-P0053,Luz LED USB,Monitorear
-P0054,Incienso japones,Promocionar producto
-P0055,Crema hidratante,Monitorear
-P0056,Repisa modular,Monitorear
-P0057,Taza termica,Monitorear
-P0058,Cepillo facial,Monitorear
-P0059,Repisa modular,Monitorear
-P0060,Cepillo facial,Monitorear
-P0061,Palillos chinos,Monitorear
-P0062,Juguete para perro,Monitorear
-P0063,Shampoo canino,Monitorear
-P0064,Fideos udon,Monitorear
-P0065,Fideos udon,Monitorear
-P0066,Arena para gato,Monitorear
-P0067,Arena para gato,Monitorear
-P0068,Organizador plastico,Monitorear
-P0069,Escoba plegable,Monitorear
-P0070,Cuaderno kawaii,Monitorear
-P0071,Palillos chinos,Monitorear
-P0072,Incienso japones,Alerta de sobrestock
-P0073,Medias termicas,Monitorear
-P0074,Palillos chinos,Monitorear
-P0075,Crema hidratante,Monitorear
-P0076,Taza termica,Reabastecimiento urgente
-P0077,Pijama,Monitorear
-P0078,Figura Feng Shui,Monitorear
-P0079,Medias termicas,Monitorear
-P0080,Medias termicas,Alerta de sobrestock
-P0081,Cable Tipo C,Monitorear
-P0082,Polo basico,Monitorear
-P0083,Cable Tipo C,Monitorear
-P0084,Palillos chinos,Monitorear
-P0085,Mascarilla coreana,Monitorear
-P0086,Luz LED USB,Monitorear
-P0087,Mini ventilador USB,Monitorear
-P0088,Polo basico,Monitorear
-P0089,Mascarilla coreana,Monitorear
-P0090,Farol decorativo,Monitorear
-P0091,Incienso japones,Monitorear
-P0092,Palillos chinos,Monitorear
-P0093,Escoba plegable,Reabastecimiento urgente
-P0094,Plato para mascotas,Monitorear
-P0095,Shampoo canino,Promocionar producto
-P0096,Shampoo canino,Alerta de sobrestock
-P0097,Palillos chinos,Monitorear
-P0098,Ramen coreano,Monitorear
-P0099,Crema hidratante,Monitorear
-P0100,Juguete para perro,Monitorear
-P0101,Cepillo facial,Monitorear
-P0102,Audifonos Bluetooth,Alerta de sobrestock
-P0103,Sarten antiadherente,Monitorear
-P0104,Palillos chinos,Monitorear
-P0105,Correa retractil,Alerta de sobrestock
-P0106,Organizador plastico,Monitorear
-P0107,Cepillo facial,Monitorear
-P0108,Ramen coreano,Monitorear
-P0109,Sarten antiadherente,Monitorear
-P0110,Mini ventilador USB,Monitorear
-P0111,Organizador plastico,Monitorear
-P0112,Medias termicas,Monitorear
-P0113,Correa retractil,Monitorear
-P0114,Fideos udon,Promocionar producto
-P0115,Stickers decorativos,Monitorear
-P0116,Caja multiuso,Monitorear
-P0117,Mascarilla coreana,Alerta de sobrestock
-P0118,Ramen coreano,Monitorear
-P0119,Escoba plegable,Monitorear
-P0120,Vaporizador de bambu,Alerta de sobrestock
-P0121,Stickers decorativos,Alerta de sobrestock
-P0122,Crema hidratante,Monitorear
-P0123,Sarten antiadherente,Promocionar producto
-P0124,Repisa modular,Monitorear
-P0125,Mini ventilador USB,Monitorear
-P0126,Lapicero gel,Monitorear
-P0127,Salsa de soya,Monitorear
-P0128,Correa retractil,Monitorear
-P0129,Te verde japones,Promocionar producto
-P0130,Figura Feng Shui,Monitorear
-P0131,Repisa modular,Monitorear
-P0132,Cepillo facial,Monitorear
-P0133,Caja multiuso,Promocionar producto
-P0134,Lapicero gel,Monitorear
-P0135,Polo basico,Alerta de sobrestock
-P0136,Incienso japones,Monitorear
-P0137,Medias termicas,Alerta de sobrestock
-P0138,Mini ventilador USB,Reabastecimiento urgente
-P0139,Correa retractil,Monitorear
-P0140,Sarten antiadherente,Monitorear
-P0141,Juguete para perro,Alerta de sobrestock
-P0142,Fideos udon,Monitorear
-P0143,Luz LED USB,Monitorear
-P0144,Cuaderno kawaii,Monitorear
-P0145,Escoba plegable,Monitorear
-P0146,Figura Feng Shui,Monitorear
-P0147,Stickers decorativos,Monitorear
-P0148,Stickers decorativos,Monitorear
-P0149,Juguete para perro,Alerta de sobrestock
-P0150,Medias termicas,Alerta de sobrestock
-P0151,Farol decorativo,Monitorear
-P0152,Cable Tipo C,Monitorear
-P0153,Ramen coreano,Alerta de sobrestock
-P0154,Medias termicas,Monitorear
-P0155,Plato para mascotas,Alerta de sobrestock
-P0156,Incienso japones,Monitorear
-P0157,Organizador plastico,Monitorear
-P0158,Juguete para perro,Monitorear
-P0159,Shampoo canino,Monitorear
-P0160,Shampoo canino,Alerta de sobrestock
-P0161,Sarten antiadherente,Monitorear
-P0162,Cepillo facial,Alerta de sobrestock
-P0163,Crema hidratante,Monitorear
-P0164,Stickers decorativos,Monitorear
-P0165,Figura Feng Shui,Alerta de sobrestock
-P0166,Lapicero gel,Monitorear
-P0167,Escoba plegable,Monitorear
-P0168,Taza termica,Monitorear
-P0169,Figura Feng Shui,Monitorear
-P0170,Farol decorativo,Monitorear
-P0171,Cuaderno kawaii,Monitorear
-P0172,Correa retractil,Alerta de sobrestock
-P0173,Pijama,Alerta de sobrestock
-P0174,Escoba plegable,Monitorear
-P0175,Ramen coreano,Monitorear
-P0176,Farol decorativo,Monitorear
-P0177,Lapicero gel,Monitorear
-P0178,Repisa modular,Alerta de sobrestock
-P0179,Figura Feng Shui,Reabastecimiento urgente
-P0180,Stickers decorativos,Monitorear
-P0181,Mini ventilador USB,Monitorear
-P0182,Plato para mascotas,Monitorear
-P0183,Arena para gato,Monitorear
-P0184,Cepillo facial,Promocionar producto
-P0185,Palillos chinos,Monitorear
-P0186,Pijama,Monitorear
-P0187,Stickers decorativos,Monitorear
-P0188,Polo basico,Monitorear
-P0189,Mascarilla coreana,Alerta de sobrestock
-P0190,Mascarilla coreana,Monitorear
-P0191,Salsa de soya,Alerta de sobrestock
-P0192,Taza termica,Monitorear
-P0193,Lapicero gel,Alerta de sobrestock
-P0194,Mini ventilador USB,Alerta de sobrestock
-P0195,Vaporizador de bambu,Monitorear
-P0196,Sarten antiadherente,Monitorear
-P0197,Pijama,Monitorear
-P0198,Plato para mascotas,Monitorear
-P0199,Polo basico,Alerta de sobrestock
-P0200,Incienso japones,Monitorear
-P0201,Organizador plastico,Alerta de sobrestock
-P0202,Te verde japones,Monitorear
-P0203,Organizador plastico,Alerta de sobrestock
-P0204,Farol decorativo,Monitorear
-P0205,Shampoo canino,Promocionar producto
-P0206,Vaporizador de bambu,Monitorear
-P0207,Pijama,Monitorear
-P0208,Pijama,Monitorear
-P0209,Audifonos Bluetooth,Monitorear
-P0210,Incienso japones,Monitorear
-P0211,Vaporizador de bambu,Monitorear
-P0212,Plato para mascotas,Monitorear
-P0213,Polo basico,Monitorear
-P0214,Pijama,Monitorear
-P0215,Farol decorativo,Monitorear
-P0216,Crema hidratante,Alerta de sobrestock
-P0217,Polo basico,Monitorear
-P0218,Cable Tipo C,Monitorear
-P0219,Incienso japones,Monitorear
-P0220,Salsa de soya,Alerta de sobrestock
-P0221,Stickers decorativos,Alerta de sobrestock
-P0222,Salsa de soya,Monitorear
-P0223,Plato para mascotas,Monitorear
-P0224,Pijama,Monitorear
-P0225,Salsa de soya,Monitorear
-P0226,Figura Feng Shui,Monitorear
-P0227,Cable Tipo C,Monitorear
-P0228,Escoba plegable,Monitorear
-P0229,Figura Feng Shui,Monitorear
-P0230,Farol decorativo,Monitorear
-P0231,Ramen coreano,Monitorear
-P0232,Repisa modular,Monitorear
-P0233,Cuaderno kawaii,Monitorear
-P0234,Polo basico,Monitorear
-P0235,Taza termica,Monitorear
-P0236,Luz LED USB,Monitorear
-P0237,Arena para gato,Monitorear
-P0238,Crema hidratante,Monitorear
-P0239,Sarten antiadherente,Monitorear
-P0240,Medias termicas,Monitorear
-P0241,Salsa de soya,Monitorear
-P0242,Luz LED USB,Reabastecimiento urgente
-P0243,Mascarilla coreana,Reabastecimiento urgente
-P0244,Te verde japones,Alerta de sobrestock
-P0245,Caja multiuso,Alerta de sobrestock
-P0246,Pijama,Alerta de sobrestock
-P0247,Juguete para perro,Alerta de sobrestock
-P0248,Mochi,Monitorear
-P0249,Farol decorativo,Monitorear
-P0250,Sarten antiadherente,Monitorear
-P0251,Cuaderno kawaii,Alerta de sobrestock
-P0252,Crema hidratante,Monitorear
-P0253,Mini ventilador USB,Promocionar producto
-P0254,Stickers decorativos,Monitorear
-P0255,Medias termicas,Alerta de sobrestock
-P0256,Vaporizador de bambu,Monitorear
-P0257,Polo basico,Alerta de sobrestock
-P0258,Medias termicas,Alerta de sobrestock
-P0259,Stickers decorativos,Monitorear
-P0260,Organizador plastico,Monitorear
-P0261,Vaporizador de bambu,Monitorear
-P0262,Te verde japones,Monitorear
-P0263,Pijama,Alerta de sobrestock
-P0264,Fideos udon,Monitorear
-P0265,Mini ventilador USB,Monitorear
-P0266,Crema hidratante,Alerta de sobrestock
-P0267,Cuaderno kawaii,Monitorear
-P0268,Plato para mascotas,Monitorear
-P0269,Medias termicas,Monitorear
-P0270,Polo basico,Monitorear
-P0271,Pijama,Monitorear
-P0272,Pijama,Monitorear
-P0273,Juguete para perro,Monitorear
-P0274,Polo basico,Monitorear
-P0275,Lapicero gel,Monitorear
-P0276,Caja multiuso,Alerta de sobrestock
-P0277,Figura Feng Shui,Alerta de sobrestock
-P0278,Repisa modular,Monitorear
-P0279,Figura Feng Shui,Alerta de sobrestock
-P0280,Incienso japones,Monitorear
-P0281,Taza termica,Monitorear
-P0282,Fideos udon,Alerta de sobrestock
-P0283,Cuaderno kawaii,Reabastecimiento urgente
-P0284,Juguete para perro,Monitorear
-P0285,Farol decorativo,Alerta de sobrestock
-P0286,Lapicero gel,Monitorear
-P0287,Correa retractil,Monitorear
-P0288,Crema hidratante,Monitorear
-P0289,Taza termica,Monitorear
-P0290,Figura Feng Shui,Monitorear
-P0291,Medias termicas,Alerta de sobrestock
-P0292,Escoba plegable,Monitorear
-P0293,Taza termica,Alerta de sobrestock
-P0294,Te verde japones,Monitorear
-P0295,Mini ventilador USB,Alerta de sobrestock
-P0296,Figura Feng Shui,Alerta de sobrestock
-P0297,Escoba plegable,Monitorear
-P0298,Crema hidratante,Monitorear
-P0299,Lapicero gel,Monitorear
-P0300,Pijama,Promocionar producto
-P0301,Juguete para perro,Monitorear
-P0302,Cepillo facial,Monitorear
-P0303,Arena para gato,Monitorear
-P0304,Shampoo canino,Monitorear
-P0305,Organizador plastico,Monitorear
-P0306,Crema hidratante,Alerta de sobrestock
-P0307,Farol decorativo,Monitorear
-P0308,Vaporizador de bambu,Monitorear
-P0309,Crema hidratante,Monitorear
-P0310,Escoba plegable,Alerta de sobrestock
-P0311,Mini ventilador USB,Monitorear
-P0312,Luz LED USB,Monitorear
-P0313,Te verde japones,Reabastecimiento urgente
-P0314,Fideos udon,Monitorear
-P0315,Sarten antiadherente,Monitorear
-P0316,Organizador plastico,Monitorear
-P0317,Medias termicas,Monitorear
-P0318,Mascarilla coreana,Monitorear
-P0319,Escoba plegable,Promocionar producto
-P0320,Luz LED USB,Monitorear
-P0321,Farol decorativo,Monitorear
-P0322,Farol decorativo,Monitorear
-P0323,Ramen coreano,Monitorear
-P0324,Mascarilla coreana,Alerta de sobrestock
-P0325,Repisa modular,Alerta de sobrestock
-P0326,Arena para gato,Monitorear
-P0327,Correa retractil,Alerta de sobrestock
-P0328,Crema hidratante,Monitorear
-P0329,Palillos chinos,Monitorear
-P0330,Shampoo canino,Monitorear
-P0331,Lapicero gel,Monitorear
-P0332,Sarten antiadherente,Promocionar producto
-P0333,Cable Tipo C,Monitorear
-P0334,Mochi,Monitorear
-P0335,Caja multiuso,Monitorear
-P0336,Mini ventilador USB,Monitorear
-P0337,Escoba plegable,Monitorear
-P0338,Stickers decorativos,Alerta de sobrestock
-P0339,Cuaderno kawaii,Monitorear
-P0340,Pijama,Monitorear
-P0341,Lapicero gel,Monitorear
-P0342,Medias termicas,Alerta de sobrestock
-P0343,Salsa de soya,Monitorear
-P0344,Incienso japones,Monitorear
-P0345,Cepillo facial,Monitorear
-P0346,Cuaderno kawaii,Monitorear
-P0347,Escoba plegable,Reabastecimiento urgente
-P0348,Organizador plastico,Monitorear
-P0349,Audifonos Bluetooth,Monitorear
-P0350,Sarten antiadherente,Monitorear
-P0351,Mochi,Monitorear
-P0352,Stickers decorativos,Alerta de sobrestock
-P0353,Ramen coreano,Promocionar producto
-P0354,Taza termica,Monitorear
-P0355,Caja multiuso,Monitorear
-P0356,Vaporizador de bambu,Monitorear
-P0357,Taza termica,Monitorear
-P0358,Ramen coreano,Monitorear
-P0359,Arena para gato,Monitorear
-P0360,Cable Tipo C,Monitorear
-P0361,Incienso japones,Alerta de sobrestock
-P0362,Shampoo canino,Monitorear
-P0363,Palillos chinos,Monitorear
-P0364,Fideos udon,Monitorear
-P0365,Ramen coreano,Monitorear
-P0366,Pijama,Alerta de sobrestock
-P0367,Audifonos Bluetooth,Monitorear
-P0368,Cable Tipo C,Monitorear
-P0369,Salsa de soya,Monitorear
-P0370,Plato para mascotas,Reabastecimiento urgente
-P0371,Te verde japones,Monitorear
-P0372,Farol decorativo,Monitorear
-P0373,Sarten antiadherente,Monitorear
-P0374,Cable Tipo C,Monitorear
-P0375,Pijama,Monitorear
-P0376,Organizador plastico,Monitorear
-P0377,Caja multiuso,Monitorear
-P0378,Audifonos Bluetooth,Monitorear
-P0379,Shampoo canino,Reabastecimiento urgente
-P0380,Cuaderno kawaii,Monitorear
-P0381,Correa retractil,Alerta de sobrestock
-P0382,Salsa de soya,Alerta de sobrestock
-P0383,Palillos chinos,Monitorear
-P0384,Te verde japones,Monitorear
-P0385,Lapicero gel,Monitorear
-P0386,Palillos chinos,Monitorear
-P0387,Mini ventilador USB,Alerta de sobrestock
-P0388,Farol decorativo,Alerta de sobrestock
-P0389,Mascarilla coreana,Monitorear
-P0390,Luz LED USB,Monitorear
-P0391,Pijama,Monitorear
-P0392,Palillos chinos,Monitorear
-P0393,Pijama,Monitorear
-P0394,Lapicero gel,Alerta de sobrestock
-P0395,Caja multiuso,Monitorear
-P0396,Shampoo canino,Monitorear
-P0397,Palillos chinos,Monitorear
-P0398,Crema hidratante,Monitorear
-P0399,Cepillo facial,Alerta de sobrestock
-P0400,Figura Feng Shui,Monitorear
-P0401,Pijama,Monitorear
-P0402,Luz LED USB,Monitorear
-P0403,Ramen coreano,Monitorear
-P0404,Cable Tipo C,Monitorear
-P0405,Polo basico,Monitorear
-P0406,Mascarilla coreana,Monitorear
-P0407,Ramen coreano,Monitorear
-P0408,Medias termicas,Monitorear
-P0409,Salsa de soya,Alerta de sobrestock
-P0410,Mini ventilador USB,Monitorear
-P0411,Sarten antiadherente,Monitorear
-P0412,Te verde japones,Monitorear
-P0413,Correa retractil,Alerta de sobrestock
-P0414,Lapicero gel,Monitorear
-P0415,Vaporizador de bambu,Alerta de sobrestock
-P0416,Ramen coreano,Monitorear
-P0417,Mochi,Monitorear
-P0418,Stickers decorativos,Monitorear
-P0419,Luz LED USB,Monitorear
-P0420,Plato para mascotas,Monitorear
-P0421,Mini ventilador USB,Alerta de sobrestock
-P0422,Mascarilla coreana,Monitorear
-P0423,Luz LED USB,Monitorear
-P0424,Polo basico,Monitorear
-P0425,Mascarilla coreana,Monitorear
-P0426,Juguete para perro,Reabastecimiento urgente
-P0427,Shampoo canino,Monitorear
-P0428,Crema hidratante,Monitorear
-P0429,Repisa modular,Monitorear
-P0430,Cuaderno kawaii,Alerta de sobrestock
-P0431,Medias termicas,Alerta de sobrestock
-P0432,Pijama,Monitorear
-P0433,Organizador plastico,Monitorear
-P0434,Organizador plastico,Monitorear
-P0435,Incienso japones,Monitorear
-P0436,Cuaderno kawaii,Monitorear
-P0437,Mascarilla coreana,Monitorear
-P0438,Sarten antiadherente,Monitorear
-P0439,Cepillo facial,Monitorear
-P0440,Correa retractil,Alerta de sobrestock
-P0441,Arena para gato,Monitorear
-P0442,Repisa modular,Alerta de sobrestock
-P0443,Farol decorativo,Monitorear
-P0444,Organizador plastico,Monitorear
-P0445,Cable Tipo C,Alerta de sobrestock
-P0446,Farol decorativo,Monitorear
-P0447,Crema hidratante,Monitorear
-P0448,Ramen coreano,Monitorear
-P0449,Polo basico,Monitorear
-P0450,Repisa modular,Monitorear
-P0451,Cepillo facial,Monitorear
-P0452,Escoba plegable,Alerta de sobrestock
-P0453,Cuaderno kawaii,Monitorear
-P0454,Farol decorativo,Alerta de sobrestock
-P0455,Farol decorativo,Promocionar producto
-P0456,Mini ventilador USB,Alerta de sobrestock
-P0457,Fideos udon,Monitorear
-P0458,Pijama,Monitorear
-P0459,Te verde japones,Monitorear
-P0460,Arena para gato,Monitorear
-P0461,Sarten antiadherente,Monitorear
-P0462,Mini ventilador USB,Monitorear
-P0463,Farol decorativo,Alerta de sobrestock
-P0464,Medias termicas,Monitorear
-P0465,Plato para mascotas,Promocionar producto
-P0466,Incienso japones,Monitorear
-P0467,Pijama,Alerta de sobrestock
-P0468,Stickers decorativos,Monitorear
-P0469,Taza termica,Alerta de sobrestock
-P0470,Sarten antiadherente,Reabastecimiento urgente
-P0471,Audifonos Bluetooth,Reabastecimiento urgente
-P0472,Taza termica,Alerta de sobrestock
-P0473,Mascarilla coreana,Alerta de sobrestock
-P0474,Palillos chinos,Monitorear
-P0475,Mochi,Monitorear
-P0476,Te verde japones,Monitorear
-P0477,Crema hidratante,Monitorear
-P0478,Escoba plegable,Monitorear
-P0479,Repisa modular,Monitorear
-P0480,Cuaderno kawaii,Monitorear
-P0481,Palillos chinos,Monitorear
-P0482,Palillos chinos,Monitorear
-P0483,Juguete para perro,Monitorear
-P0484,Incienso japones,Monitorear
-P0485,Juguete para perro,Alerta de sobrestock
-P0486,Farol decorativo,Monitorear
-P0487,Sarten antiadherente,Monitorear
-P0488,Fideos udon,Monitorear
-P0489,Lapicero gel,Monitorear
-P0490,Crema hidratante,Monitorear
-P0491,Lapicero gel,Monitorear
-P0492,Luz LED USB,Monitorear
-P0493,Farol decorativo,Monitorear
-P0494,Palillos chinos,Alerta de sobrestock
-P0495,Medias termicas,Monitorear
-P0496,Juguete para perro,Monitorear
-P0497,Correa retractil,Reabastecimiento urgente
-P0498,Incienso japones,Monitorear
-P0499,Mascarilla coreana,Reabastecimiento urgente
-P0500,Polo basico,Monitorear
+codigo_producto,nombre_producto,categoria,nivel_rotacion,accion
+P0001,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0002,Sarten antiadherente,Cocina,Alta,Monitorear
+P0003,Repisa modular,Hogar,Baja,Alerta de sobrestock
+P0004,Mini ventilador USB,Electronica,Media,Monitorear
+P0005,Taza termica,Cocina,Alta,Reabastecimiento urgente
+P0006,Incienso japones,Decoracion,Alta,Monitorear
+P0007,Caja multiuso,Hogar,Alta,Monitorear
+P0008,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0009,Fideos udon,Comida Asiatica,Media,Monitorear
+P0010,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0011,Mochi,Comida Asiatica,Media,Monitorear
+P0012,Polo basico,Ropa,Baja,Monitorear
+P0013,Pijama,Ropa,Alta,Monitorear
+P0014,Palillos chinos,Cocina,Baja,Alerta de sobrestock
+P0015,Pijama,Ropa,Baja,Monitorear
+P0016,Cepillo facial,Belleza,Media,Monitorear
+P0017,Cable Tipo C,Electronica,Alta,Reabastecimiento urgente
+P0018,Farol decorativo,Decoracion,Alta,Monitorear
+P0019,Sarten antiadherente,Cocina,Media,Monitorear
+P0020,Te verde japones,Comida Asiatica,Media,Monitorear
+P0021,Polo basico,Ropa,Baja,Alerta de sobrestock
+P0022,Salsa de soya,Comida Asiatica,Alta,Monitorear
+P0023,Te verde japones,Comida Asiatica,Alta,Monitorear
+P0024,Incienso japones,Decoracion,Media,Monitorear
+P0025,Cuaderno kawaii,Papeleria,Baja,Monitorear
+P0026,Escoba plegable,Hogar,Media,Monitorear
+P0027,Caja multiuso,Hogar,Media,Monitorear
+P0028,Plato para mascotas,Mascotas,Media,Monitorear
+P0029,Audifonos Bluetooth,Electronica,Alta,Monitorear
+P0030,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0031,Arena para gato,Mascotas,Media,Monitorear
+P0032,Mochi,Comida Asiatica,Media,Monitorear
+P0033,Polo basico,Ropa,Media,Monitorear
+P0034,Polo basico,Ropa,Baja,Alerta de sobrestock
+P0035,Polo basico,Ropa,Baja,Monitorear
+P0036,Incienso japones,Decoracion,Media,Monitorear
+P0037,Taza termica,Cocina,Alta,Monitorear
+P0038,Juguete para perro,Mascotas,Media,Monitorear
+P0039,Cable Tipo C,Electronica,Media,Monitorear
+P0040,Salsa de soya,Comida Asiatica,Alta,Monitorear
+P0041,Luz LED USB,Electronica,Baja,Monitorear
+P0042,Organizador plastico,Hogar,Alta,Monitorear
+P0043,Taza termica,Cocina,Baja,Monitorear
+P0044,Farol decorativo,Decoracion,Baja,Monitorear
+P0045,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0046,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0047,Luz LED USB,Electronica,Alta,Monitorear
+P0048,Crema hidratante,Belleza,Alta,Monitorear
+P0049,Arena para gato,Mascotas,Baja,Alerta de sobrestock
+P0050,Vaporizador de bambu,Cocina,Alta,Reabastecimiento urgente
+P0051,Ramen coreano,Comida Asiatica,Alta,Monitorear
+P0052,Caja multiuso,Hogar,Media,Monitorear
+P0053,Luz LED USB,Electronica,Media,Monitorear
+P0054,Incienso japones,Decoracion,Media,Promocionar producto
+P0055,Crema hidratante,Belleza,Baja,Monitorear
+P0056,Repisa modular,Hogar,Alta,Monitorear
+P0057,Taza termica,Cocina,Media,Monitorear
+P0058,Cepillo facial,Belleza,Alta,Monitorear
+P0059,Repisa modular,Hogar,Media,Monitorear
+P0060,Cepillo facial,Belleza,Media,Monitorear
+P0061,Palillos chinos,Cocina,Baja,Monitorear
+P0062,Juguete para perro,Mascotas,Media,Monitorear
+P0063,Shampoo canino,Mascotas,Media,Monitorear
+P0064,Fideos udon,Comida Asiatica,Media,Monitorear
+P0065,Fideos udon,Comida Asiatica,Alta,Monitorear
+P0066,Arena para gato,Mascotas,Alta,Monitorear
+P0067,Arena para gato,Mascotas,Baja,Monitorear
+P0068,Organizador plastico,Hogar,Media,Monitorear
+P0069,Escoba plegable,Hogar,Media,Monitorear
+P0070,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0071,Palillos chinos,Cocina,Media,Monitorear
+P0072,Incienso japones,Decoracion,Baja,Alerta de sobrestock
+P0073,Medias termicas,Ropa,Media,Monitorear
+P0074,Palillos chinos,Cocina,Alta,Monitorear
+P0075,Crema hidratante,Belleza,Media,Monitorear
+P0076,Taza termica,Cocina,Alta,Reabastecimiento urgente
+P0077,Pijama,Ropa,Baja,Monitorear
+P0078,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0079,Medias termicas,Ropa,Alta,Monitorear
+P0080,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0081,Cable Tipo C,Electronica,Media,Monitorear
+P0082,Polo basico,Ropa,Media,Monitorear
+P0083,Cable Tipo C,Electronica,Media,Monitorear
+P0084,Palillos chinos,Cocina,Alta,Monitorear
+P0085,Mascarilla coreana,Belleza,Alta,Monitorear
+P0086,Luz LED USB,Electronica,Media,Monitorear
+P0087,Mini ventilador USB,Electronica,Alta,Monitorear
+P0088,Polo basico,Ropa,Baja,Monitorear
+P0089,Mascarilla coreana,Belleza,Baja,Monitorear
+P0090,Farol decorativo,Decoracion,Media,Monitorear
+P0091,Incienso japones,Decoracion,Alta,Monitorear
+P0092,Palillos chinos,Cocina,Baja,Monitorear
+P0093,Escoba plegable,Hogar,Alta,Reabastecimiento urgente
+P0094,Plato para mascotas,Mascotas,Media,Monitorear
+P0095,Shampoo canino,Mascotas,Alta,Promocionar producto
+P0096,Shampoo canino,Mascotas,Baja,Alerta de sobrestock
+P0097,Palillos chinos,Cocina,Alta,Monitorear
+P0098,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0099,Crema hidratante,Belleza,Alta,Monitorear
+P0100,Juguete para perro,Mascotas,Alta,Monitorear
+P0101,Cepillo facial,Belleza,Media,Monitorear
+P0102,Audifonos Bluetooth,Electronica,Baja,Alerta de sobrestock
+P0103,Sarten antiadherente,Cocina,Media,Monitorear
+P0104,Palillos chinos,Cocina,Alta,Monitorear
+P0105,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0106,Organizador plastico,Hogar,Alta,Monitorear
+P0107,Cepillo facial,Belleza,Alta,Monitorear
+P0108,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0109,Sarten antiadherente,Cocina,Media,Monitorear
+P0110,Mini ventilador USB,Electronica,Baja,Monitorear
+P0111,Organizador plastico,Hogar,Media,Monitorear
+P0112,Medias termicas,Ropa,Media,Monitorear
+P0113,Correa retractil,Mascotas,Alta,Monitorear
+P0114,Fideos udon,Comida Asiatica,Alta,Promocionar producto
+P0115,Stickers decorativos,Papeleria,Alta,Monitorear
+P0116,Caja multiuso,Hogar,Alta,Monitorear
+P0117,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0118,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0119,Escoba plegable,Hogar,Alta,Monitorear
+P0120,Vaporizador de bambu,Cocina,Baja,Alerta de sobrestock
+P0121,Stickers decorativos,Papeleria,Baja,Alerta de sobrestock
+P0122,Crema hidratante,Belleza,Media,Monitorear
+P0123,Sarten antiadherente,Cocina,Baja,Promocionar producto
+P0124,Repisa modular,Hogar,Baja,Monitorear
+P0125,Mini ventilador USB,Electronica,Media,Monitorear
+P0126,Lapicero gel,Papeleria,Alta,Monitorear
+P0127,Salsa de soya,Comida Asiatica,Alta,Monitorear
+P0128,Correa retractil,Mascotas,Baja,Monitorear
+P0129,Te verde japones,Comida Asiatica,Alta,Promocionar producto
+P0130,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0131,Repisa modular,Hogar,Baja,Monitorear
+P0132,Cepillo facial,Belleza,Media,Monitorear
+P0133,Caja multiuso,Hogar,Media,Promocionar producto
+P0134,Lapicero gel,Papeleria,Media,Monitorear
+P0135,Polo basico,Ropa,Baja,Alerta de sobrestock
+P0136,Incienso japones,Decoracion,Media,Monitorear
+P0137,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0138,Mini ventilador USB,Electronica,Alta,Reabastecimiento urgente
+P0139,Correa retractil,Mascotas,Baja,Monitorear
+P0140,Sarten antiadherente,Cocina,Baja,Monitorear
+P0141,Juguete para perro,Mascotas,Baja,Alerta de sobrestock
+P0142,Fideos udon,Comida Asiatica,Alta,Monitorear
+P0143,Luz LED USB,Electronica,Alta,Monitorear
+P0144,Cuaderno kawaii,Papeleria,Media,Monitorear
+P0145,Escoba plegable,Hogar,Baja,Monitorear
+P0146,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0147,Stickers decorativos,Papeleria,Alta,Monitorear
+P0148,Stickers decorativos,Papeleria,Media,Monitorear
+P0149,Juguete para perro,Mascotas,Baja,Alerta de sobrestock
+P0150,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0151,Farol decorativo,Decoracion,Media,Monitorear
+P0152,Cable Tipo C,Electronica,Media,Monitorear
+P0153,Ramen coreano,Comida Asiatica,Baja,Alerta de sobrestock
+P0154,Medias termicas,Ropa,Alta,Monitorear
+P0155,Plato para mascotas,Mascotas,Baja,Alerta de sobrestock
+P0156,Incienso japones,Decoracion,Media,Monitorear
+P0157,Organizador plastico,Hogar,Media,Monitorear
+P0158,Juguete para perro,Mascotas,Alta,Monitorear
+P0159,Shampoo canino,Mascotas,Alta,Monitorear
+P0160,Shampoo canino,Mascotas,Baja,Alerta de sobrestock
+P0161,Sarten antiadherente,Cocina,Media,Monitorear
+P0162,Cepillo facial,Belleza,Baja,Alerta de sobrestock
+P0163,Crema hidratante,Belleza,Media,Monitorear
+P0164,Stickers decorativos,Papeleria,Media,Monitorear
+P0165,Figura Feng Shui,Decoracion,Baja,Alerta de sobrestock
+P0166,Lapicero gel,Papeleria,Alta,Monitorear
+P0167,Escoba plegable,Hogar,Media,Monitorear
+P0168,Taza termica,Cocina,Media,Monitorear
+P0169,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0170,Farol decorativo,Decoracion,Media,Monitorear
+P0171,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0172,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0173,Pijama,Ropa,Baja,Alerta de sobrestock
+P0174,Escoba plegable,Hogar,Alta,Monitorear
+P0175,Ramen coreano,Comida Asiatica,Alta,Monitorear
+P0176,Farol decorativo,Decoracion,Baja,Monitorear
+P0177,Lapicero gel,Papeleria,Alta,Monitorear
+P0178,Repisa modular,Hogar,Baja,Alerta de sobrestock
+P0179,Figura Feng Shui,Decoracion,Alta,Reabastecimiento urgente
+P0180,Stickers decorativos,Papeleria,Alta,Monitorear
+P0181,Mini ventilador USB,Electronica,Alta,Monitorear
+P0182,Plato para mascotas,Mascotas,Media,Monitorear
+P0183,Arena para gato,Mascotas,Alta,Monitorear
+P0184,Cepillo facial,Belleza,Alta,Promocionar producto
+P0185,Palillos chinos,Cocina,Baja,Monitorear
+P0186,Pijama,Ropa,Media,Monitorear
+P0187,Stickers decorativos,Papeleria,Baja,Monitorear
+P0188,Polo basico,Ropa,Baja,Monitorear
+P0189,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0190,Mascarilla coreana,Belleza,Media,Monitorear
+P0191,Salsa de soya,Comida Asiatica,Baja,Alerta de sobrestock
+P0192,Taza termica,Cocina,Media,Monitorear
+P0193,Lapicero gel,Papeleria,Baja,Alerta de sobrestock
+P0194,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0195,Vaporizador de bambu,Cocina,Baja,Monitorear
+P0196,Sarten antiadherente,Cocina,Baja,Monitorear
+P0197,Pijama,Ropa,Alta,Monitorear
+P0198,Plato para mascotas,Mascotas,Media,Monitorear
+P0199,Polo basico,Ropa,Baja,Alerta de sobrestock
+P0200,Incienso japones,Decoracion,Media,Monitorear
+P0201,Organizador plastico,Hogar,Baja,Alerta de sobrestock
+P0202,Te verde japones,Comida Asiatica,Alta,Monitorear
+P0203,Organizador plastico,Hogar,Baja,Alerta de sobrestock
+P0204,Farol decorativo,Decoracion,Baja,Monitorear
+P0205,Shampoo canino,Mascotas,Alta,Promocionar producto
+P0206,Vaporizador de bambu,Cocina,Media,Monitorear
+P0207,Pijama,Ropa,Alta,Monitorear
+P0208,Pijama,Ropa,Baja,Monitorear
+P0209,Audifonos Bluetooth,Electronica,Media,Monitorear
+P0210,Incienso japones,Decoracion,Baja,Monitorear
+P0211,Vaporizador de bambu,Cocina,Media,Monitorear
+P0212,Plato para mascotas,Mascotas,Media,Monitorear
+P0213,Polo basico,Ropa,Baja,Monitorear
+P0214,Pijama,Ropa,Alta,Monitorear
+P0215,Farol decorativo,Decoracion,Media,Monitorear
+P0216,Crema hidratante,Belleza,Baja,Alerta de sobrestock
+P0217,Polo basico,Ropa,Media,Monitorear
+P0218,Cable Tipo C,Electronica,Media,Monitorear
+P0219,Incienso japones,Decoracion,Alta,Monitorear
+P0220,Salsa de soya,Comida Asiatica,Baja,Alerta de sobrestock
+P0221,Stickers decorativos,Papeleria,Baja,Alerta de sobrestock
+P0222,Salsa de soya,Comida Asiatica,Alta,Monitorear
+P0223,Plato para mascotas,Mascotas,Baja,Monitorear
+P0224,Pijama,Ropa,Media,Monitorear
+P0225,Salsa de soya,Comida Asiatica,Media,Monitorear
+P0226,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0227,Cable Tipo C,Electronica,Media,Monitorear
+P0228,Escoba plegable,Hogar,Media,Monitorear
+P0229,Figura Feng Shui,Decoracion,Baja,Monitorear
+P0230,Farol decorativo,Decoracion,Baja,Monitorear
+P0231,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0232,Repisa modular,Hogar,Media,Monitorear
+P0233,Cuaderno kawaii,Papeleria,Media,Monitorear
+P0234,Polo basico,Ropa,Alta,Monitorear
+P0235,Taza termica,Cocina,Media,Monitorear
+P0236,Luz LED USB,Electronica,Media,Monitorear
+P0237,Arena para gato,Mascotas,Alta,Monitorear
+P0238,Crema hidratante,Belleza,Alta,Monitorear
+P0239,Sarten antiadherente,Cocina,Media,Monitorear
+P0240,Medias termicas,Ropa,Media,Monitorear
+P0241,Salsa de soya,Comida Asiatica,Media,Monitorear
+P0242,Luz LED USB,Electronica,Alta,Reabastecimiento urgente
+P0243,Mascarilla coreana,Belleza,Alta,Reabastecimiento urgente
+P0244,Te verde japones,Comida Asiatica,Baja,Alerta de sobrestock
+P0245,Caja multiuso,Hogar,Baja,Alerta de sobrestock
+P0246,Pijama,Ropa,Baja,Alerta de sobrestock
+P0247,Juguete para perro,Mascotas,Baja,Alerta de sobrestock
+P0248,Mochi,Comida Asiatica,Media,Monitorear
+P0249,Farol decorativo,Decoracion,Media,Monitorear
+P0250,Sarten antiadherente,Cocina,Alta,Monitorear
+P0251,Cuaderno kawaii,Papeleria,Baja,Alerta de sobrestock
+P0252,Crema hidratante,Belleza,Alta,Monitorear
+P0253,Mini ventilador USB,Electronica,Media,Promocionar producto
+P0254,Stickers decorativos,Papeleria,Media,Monitorear
+P0255,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0256,Vaporizador de bambu,Cocina,Media,Monitorear
+P0257,Polo basico,Ropa,Baja,Alerta de sobrestock
+P0258,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0259,Stickers decorativos,Papeleria,Alta,Monitorear
+P0260,Organizador plastico,Hogar,Baja,Monitorear
+P0261,Vaporizador de bambu,Cocina,Media,Monitorear
+P0262,Te verde japones,Comida Asiatica,Alta,Monitorear
+P0263,Pijama,Ropa,Baja,Alerta de sobrestock
+P0264,Fideos udon,Comida Asiatica,Media,Monitorear
+P0265,Mini ventilador USB,Electronica,Baja,Monitorear
+P0266,Crema hidratante,Belleza,Baja,Alerta de sobrestock
+P0267,Cuaderno kawaii,Papeleria,Media,Monitorear
+P0268,Plato para mascotas,Mascotas,Media,Monitorear
+P0269,Medias termicas,Ropa,Media,Monitorear
+P0270,Polo basico,Ropa,Media,Monitorear
+P0271,Pijama,Ropa,Alta,Monitorear
+P0272,Pijama,Ropa,Media,Monitorear
+P0273,Juguete para perro,Mascotas,Alta,Monitorear
+P0274,Polo basico,Ropa,Alta,Monitorear
+P0275,Lapicero gel,Papeleria,Media,Monitorear
+P0276,Caja multiuso,Hogar,Baja,Alerta de sobrestock
+P0277,Figura Feng Shui,Decoracion,Baja,Alerta de sobrestock
+P0278,Repisa modular,Hogar,Alta,Monitorear
+P0279,Figura Feng Shui,Decoracion,Baja,Alerta de sobrestock
+P0280,Incienso japones,Decoracion,Media,Monitorear
+P0281,Taza termica,Cocina,Alta,Monitorear
+P0282,Fideos udon,Comida Asiatica,Baja,Alerta de sobrestock
+P0283,Cuaderno kawaii,Papeleria,Alta,Reabastecimiento urgente
+P0284,Juguete para perro,Mascotas,Alta,Monitorear
+P0285,Farol decorativo,Decoracion,Baja,Alerta de sobrestock
+P0286,Lapicero gel,Papeleria,Media,Monitorear
+P0287,Correa retractil,Mascotas,Baja,Monitorear
+P0288,Crema hidratante,Belleza,Media,Monitorear
+P0289,Taza termica,Cocina,Alta,Monitorear
+P0290,Figura Feng Shui,Decoracion,Alta,Monitorear
+P0291,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0292,Escoba plegable,Hogar,Baja,Monitorear
+P0293,Taza termica,Cocina,Baja,Alerta de sobrestock
+P0294,Te verde japones,Comida Asiatica,Media,Monitorear
+P0295,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0296,Figura Feng Shui,Decoracion,Baja,Alerta de sobrestock
+P0297,Escoba plegable,Hogar,Media,Monitorear
+P0298,Crema hidratante,Belleza,Media,Monitorear
+P0299,Lapicero gel,Papeleria,Media,Monitorear
+P0300,Pijama,Ropa,Alta,Promocionar producto
+P0301,Juguete para perro,Mascotas,Alta,Monitorear
+P0302,Cepillo facial,Belleza,Alta,Monitorear
+P0303,Arena para gato,Mascotas,Media,Monitorear
+P0304,Shampoo canino,Mascotas,Alta,Monitorear
+P0305,Organizador plastico,Hogar,Media,Monitorear
+P0306,Crema hidratante,Belleza,Baja,Alerta de sobrestock
+P0307,Farol decorativo,Decoracion,Baja,Monitorear
+P0308,Vaporizador de bambu,Cocina,Alta,Monitorear
+P0309,Crema hidratante,Belleza,Alta,Monitorear
+P0310,Escoba plegable,Hogar,Baja,Alerta de sobrestock
+P0311,Mini ventilador USB,Electronica,Media,Monitorear
+P0312,Luz LED USB,Electronica,Alta,Monitorear
+P0313,Te verde japones,Comida Asiatica,Alta,Reabastecimiento urgente
+P0314,Fideos udon,Comida Asiatica,Alta,Monitorear
+P0315,Sarten antiadherente,Cocina,Baja,Monitorear
+P0316,Organizador plastico,Hogar,Media,Monitorear
+P0317,Medias termicas,Ropa,Media,Monitorear
+P0318,Mascarilla coreana,Belleza,Baja,Monitorear
+P0319,Escoba plegable,Hogar,Media,Promocionar producto
+P0320,Luz LED USB,Electronica,Alta,Monitorear
+P0321,Farol decorativo,Decoracion,Alta,Monitorear
+P0322,Farol decorativo,Decoracion,Media,Monitorear
+P0323,Ramen coreano,Comida Asiatica,Alta,Monitorear
+P0324,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0325,Repisa modular,Hogar,Baja,Alerta de sobrestock
+P0326,Arena para gato,Mascotas,Alta,Monitorear
+P0327,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0328,Crema hidratante,Belleza,Media,Monitorear
+P0329,Palillos chinos,Cocina,Media,Monitorear
+P0330,Shampoo canino,Mascotas,Alta,Monitorear
+P0331,Lapicero gel,Papeleria,Alta,Monitorear
+P0332,Sarten antiadherente,Cocina,Media,Promocionar producto
+P0333,Cable Tipo C,Electronica,Alta,Monitorear
+P0334,Mochi,Comida Asiatica,Alta,Monitorear
+P0335,Caja multiuso,Hogar,Alta,Monitorear
+P0336,Mini ventilador USB,Electronica,Media,Monitorear
+P0337,Escoba plegable,Hogar,Baja,Monitorear
+P0338,Stickers decorativos,Papeleria,Baja,Alerta de sobrestock
+P0339,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0340,Pijama,Ropa,Alta,Monitorear
+P0341,Lapicero gel,Papeleria,Media,Monitorear
+P0342,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0343,Salsa de soya,Comida Asiatica,Media,Monitorear
+P0344,Incienso japones,Decoracion,Alta,Monitorear
+P0345,Cepillo facial,Belleza,Alta,Monitorear
+P0346,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0347,Escoba plegable,Hogar,Alta,Reabastecimiento urgente
+P0348,Organizador plastico,Hogar,Alta,Monitorear
+P0349,Audifonos Bluetooth,Electronica,Alta,Monitorear
+P0350,Sarten antiadherente,Cocina,Alta,Monitorear
+P0351,Mochi,Comida Asiatica,Baja,Monitorear
+P0352,Stickers decorativos,Papeleria,Baja,Alerta de sobrestock
+P0353,Ramen coreano,Comida Asiatica,Baja,Promocionar producto
+P0354,Taza termica,Cocina,Media,Monitorear
+P0355,Caja multiuso,Hogar,Media,Monitorear
+P0356,Vaporizador de bambu,Cocina,Media,Monitorear
+P0357,Taza termica,Cocina,Alta,Monitorear
+P0358,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0359,Arena para gato,Mascotas,Alta,Monitorear
+P0360,Cable Tipo C,Electronica,Alta,Monitorear
+P0361,Incienso japones,Decoracion,Baja,Alerta de sobrestock
+P0362,Shampoo canino,Mascotas,Alta,Monitorear
+P0363,Palillos chinos,Cocina,Media,Monitorear
+P0364,Fideos udon,Comida Asiatica,Alta,Monitorear
+P0365,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0366,Pijama,Ropa,Baja,Alerta de sobrestock
+P0367,Audifonos Bluetooth,Electronica,Baja,Monitorear
+P0368,Cable Tipo C,Electronica,Baja,Monitorear
+P0369,Salsa de soya,Comida Asiatica,Baja,Monitorear
+P0370,Plato para mascotas,Mascotas,Alta,Reabastecimiento urgente
+P0371,Te verde japones,Comida Asiatica,Media,Monitorear
+P0372,Farol decorativo,Decoracion,Media,Monitorear
+P0373,Sarten antiadherente,Cocina,Alta,Monitorear
+P0374,Cable Tipo C,Electronica,Media,Monitorear
+P0375,Pijama,Ropa,Baja,Monitorear
+P0376,Organizador plastico,Hogar,Baja,Monitorear
+P0377,Caja multiuso,Hogar,Alta,Monitorear
+P0378,Audifonos Bluetooth,Electronica,Media,Monitorear
+P0379,Shampoo canino,Mascotas,Alta,Reabastecimiento urgente
+P0380,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0381,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0382,Salsa de soya,Comida Asiatica,Baja,Alerta de sobrestock
+P0383,Palillos chinos,Cocina,Media,Monitorear
+P0384,Te verde japones,Comida Asiatica,Media,Monitorear
+P0385,Lapicero gel,Papeleria,Baja,Monitorear
+P0386,Palillos chinos,Cocina,Alta,Monitorear
+P0387,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0388,Farol decorativo,Decoracion,Baja,Alerta de sobrestock
+P0389,Mascarilla coreana,Belleza,Baja,Monitorear
+P0390,Luz LED USB,Electronica,Alta,Monitorear
+P0391,Pijama,Ropa,Alta,Monitorear
+P0392,Palillos chinos,Cocina,Alta,Monitorear
+P0393,Pijama,Ropa,Media,Monitorear
+P0394,Lapicero gel,Papeleria,Baja,Alerta de sobrestock
+P0395,Caja multiuso,Hogar,Baja,Monitorear
+P0396,Shampoo canino,Mascotas,Media,Monitorear
+P0397,Palillos chinos,Cocina,Media,Monitorear
+P0398,Crema hidratante,Belleza,Alta,Monitorear
+P0399,Cepillo facial,Belleza,Baja,Alerta de sobrestock
+P0400,Figura Feng Shui,Decoracion,Baja,Monitorear
+P0401,Pijama,Ropa,Media,Monitorear
+P0402,Luz LED USB,Electronica,Baja,Monitorear
+P0403,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0404,Cable Tipo C,Electronica,Media,Monitorear
+P0405,Polo basico,Ropa,Media,Monitorear
+P0406,Mascarilla coreana,Belleza,Alta,Monitorear
+P0407,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0408,Medias termicas,Ropa,Media,Monitorear
+P0409,Salsa de soya,Comida Asiatica,Baja,Alerta de sobrestock
+P0410,Mini ventilador USB,Electronica,Baja,Monitorear
+P0411,Sarten antiadherente,Cocina,Alta,Monitorear
+P0412,Te verde japones,Comida Asiatica,Alta,Monitorear
+P0413,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0414,Lapicero gel,Papeleria,Baja,Monitorear
+P0415,Vaporizador de bambu,Cocina,Baja,Alerta de sobrestock
+P0416,Ramen coreano,Comida Asiatica,Alta,Monitorear
+P0417,Mochi,Comida Asiatica,Media,Monitorear
+P0418,Stickers decorativos,Papeleria,Alta,Monitorear
+P0419,Luz LED USB,Electronica,Alta,Monitorear
+P0420,Plato para mascotas,Mascotas,Media,Monitorear
+P0421,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0422,Mascarilla coreana,Belleza,Media,Monitorear
+P0423,Luz LED USB,Electronica,Media,Monitorear
+P0424,Polo basico,Ropa,Media,Monitorear
+P0425,Mascarilla coreana,Belleza,Alta,Monitorear
+P0426,Juguete para perro,Mascotas,Alta,Reabastecimiento urgente
+P0427,Shampoo canino,Mascotas,Baja,Monitorear
+P0428,Crema hidratante,Belleza,Media,Monitorear
+P0429,Repisa modular,Hogar,Media,Monitorear
+P0430,Cuaderno kawaii,Papeleria,Baja,Alerta de sobrestock
+P0431,Medias termicas,Ropa,Baja,Alerta de sobrestock
+P0432,Pijama,Ropa,Media,Monitorear
+P0433,Organizador plastico,Hogar,Alta,Monitorear
+P0434,Organizador plastico,Hogar,Media,Monitorear
+P0435,Incienso japones,Decoracion,Alta,Monitorear
+P0436,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0437,Mascarilla coreana,Belleza,Alta,Monitorear
+P0438,Sarten antiadherente,Cocina,Media,Monitorear
+P0439,Cepillo facial,Belleza,Media,Monitorear
+P0440,Correa retractil,Mascotas,Baja,Alerta de sobrestock
+P0441,Arena para gato,Mascotas,Baja,Monitorear
+P0442,Repisa modular,Hogar,Baja,Alerta de sobrestock
+P0443,Farol decorativo,Decoracion,Media,Monitorear
+P0444,Organizador plastico,Hogar,Baja,Monitorear
+P0445,Cable Tipo C,Electronica,Baja,Alerta de sobrestock
+P0446,Farol decorativo,Decoracion,Alta,Monitorear
+P0447,Crema hidratante,Belleza,Alta,Monitorear
+P0448,Ramen coreano,Comida Asiatica,Media,Monitorear
+P0449,Polo basico,Ropa,Alta,Monitorear
+P0450,Repisa modular,Hogar,Media,Monitorear
+P0451,Cepillo facial,Belleza,Baja,Monitorear
+P0452,Escoba plegable,Hogar,Baja,Alerta de sobrestock
+P0453,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0454,Farol decorativo,Decoracion,Baja,Alerta de sobrestock
+P0455,Farol decorativo,Decoracion,Baja,Promocionar producto
+P0456,Mini ventilador USB,Electronica,Baja,Alerta de sobrestock
+P0457,Fideos udon,Comida Asiatica,Alta,Monitorear
+P0458,Pijama,Ropa,Media,Monitorear
+P0459,Te verde japones,Comida Asiatica,Media,Monitorear
+P0460,Arena para gato,Mascotas,Alta,Monitorear
+P0461,Sarten antiadherente,Cocina,Baja,Monitorear
+P0462,Mini ventilador USB,Electronica,Media,Monitorear
+P0463,Farol decorativo,Decoracion,Baja,Alerta de sobrestock
+P0464,Medias termicas,Ropa,Alta,Monitorear
+P0465,Plato para mascotas,Mascotas,Baja,Promocionar producto
+P0466,Incienso japones,Decoracion,Alta,Monitorear
+P0467,Pijama,Ropa,Baja,Alerta de sobrestock
+P0468,Stickers decorativos,Papeleria,Alta,Monitorear
+P0469,Taza termica,Cocina,Baja,Alerta de sobrestock
+P0470,Sarten antiadherente,Cocina,Alta,Reabastecimiento urgente
+P0471,Audifonos Bluetooth,Electronica,Alta,Reabastecimiento urgente
+P0472,Taza termica,Cocina,Baja,Alerta de sobrestock
+P0473,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0474,Palillos chinos,Cocina,Media,Monitorear
+P0475,Mochi,Comida Asiatica,Alta,Monitorear
+P0476,Te verde japones,Comida Asiatica,Baja,Monitorear
+P0477,Crema hidratante,Belleza,Baja,Monitorear
+P0478,Escoba plegable,Hogar,Media,Monitorear
+P0479,Repisa modular,Hogar,Media,Monitorear
+P0480,Cuaderno kawaii,Papeleria,Alta,Monitorear
+P0481,Palillos chinos,Cocina,Media,Monitorear
+P0482,Palillos chinos,Cocina,Alta,Monitorear
+P0483,Juguete para perro,Mascotas,Alta,Monitorear
+P0484,Incienso japones,Decoracion,Alta,Monitorear
+P0485,Juguete para perro,Mascotas,Baja,Alerta de sobrestock
+P0486,Farol decorativo,Decoracion,Alta,Monitorear
+P0487,Sarten antiadherente,Cocina,Baja,Monitorear
+P0488,Fideos udon,Comida Asiatica,Media,Monitorear
+P0489,Lapicero gel,Papeleria,Alta,Monitorear
+P0490,Crema hidratante,Belleza,Media,Monitorear
+P0491,Lapicero gel,Papeleria,Baja,Monitorear
+P0492,Luz LED USB,Electronica,Baja,Monitorear
+P0493,Farol decorativo,Decoracion,Media,Monitorear
+P0494,Palillos chinos,Cocina,Baja,Alerta de sobrestock
+P0495,Medias termicas,Ropa,Media,Monitorear
+P0496,Juguete para perro,Mascotas,Alta,Monitorear
+P0497,Correa retractil,Mascotas,Alta,Reabastecimiento urgente
+P0498,Incienso japones,Decoracion,Media,Monitorear
+P0499,Mascarilla coreana,Belleza,Alta,Reabastecimiento urgente
+P0500,Polo basico,Ropa,Media,Monitorear

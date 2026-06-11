@@ -9,6 +9,10 @@ df = pd.read_csv(
     "data/dataset_modelado.csv"
 )
 
+# ====================================================
+# MÓDULO 1: RECOMENDACIONES POR PRODUCTO (reglas IF-THEN)
+# ====================================================
+
 recomendaciones = []
 
 for _, fila in df.iterrows():
@@ -20,7 +24,6 @@ for _, fila in df.iterrows():
         fila["nivel_rotacion"] == "Alta"
         and fila["stock_actual"] < fila["stock_minimo"]
     ):
-
         accion = "Reabastecimiento urgente"
 
     # Regla 2
@@ -29,30 +32,21 @@ for _, fila in df.iterrows():
         and fila["stock_actual"] >
         fila["stock_minimo"] * 3
     ):
-
         accion = "Alerta de sobrestock"
 
     # Regla 3
     elif fila["dias_para_vencer"] < 15:
-
         accion = "Promocionar producto"
 
     recomendaciones.append({
-
-        "codigo_producto":
-        fila["codigo_producto"],
-
-        "nombre_producto":
-        fila["nombre_producto"],
-
-        "accion":
-        accion
-
+        "codigo_producto": fila["codigo_producto"],
+        "nombre_producto": fila["nombre_producto"],
+        "categoria":       fila["categoria"],
+        "nivel_rotacion":  fila["nivel_rotacion"],
+        "accion":          accion
     })
 
-resultado = pd.DataFrame(
-    recomendaciones
-)
+resultado = pd.DataFrame(recomendaciones)
 
 resultado.to_csv(
     "outputs/reportes/recomendaciones.csv",
@@ -60,3 +54,110 @@ resultado.to_csv(
 )
 
 print("recomendaciones.csv generado")
+
+# ====================================================
+# MÓDULO 2: ANÁLISIS DE TENDENCIAS POR CATEGORÍA
+# ¿Qué importar más? ¿Qué reducir?
+# ====================================================
+
+print("\n=== ANÁLISIS DE IMPORTACIÓN POR CATEGORÍA ===")
+
+# Rotación promedio y ventas promedio por categoría
+resumen_categoria = df.groupby("categoria").agg(
+    total_productos     = ("codigo_producto",  "count"),
+    ventas_promedio     = ("cantidad_vendida",  "mean"),
+    rotacion_promedio   = ("indice_rotacion",   "mean"),
+    pct_alta_rotacion   = ("nivel_rotacion",
+                           lambda x: (x == "Alta").sum() / len(x) * 100),
+    pct_baja_rotacion   = ("nivel_rotacion",
+                           lambda x: (x == "Baja").sum() / len(x) * 100),
+    stock_promedio      = ("stock_actual",      "mean"),
+).reset_index()
+
+# Decisión de importación basada en reglas
+def decision_importacion(fila):
+    if fila["pct_alta_rotacion"] >= 40:
+        return "Aumentar importación"
+    elif fila["pct_baja_rotacion"] >= 50:
+        return "Reducir importación"
+    elif fila["ventas_promedio"] >= df["cantidad_vendida"].quantile(0.66):
+        return "Mantener y evaluar expansión"
+    else:
+        return "Mantener importación actual"
+
+resumen_categoria["decision_importacion"] = resumen_categoria.apply(
+    decision_importacion, axis=1
+)
+
+resumen_categoria = resumen_categoria.sort_values(
+    "rotacion_promedio", ascending=False
+)
+
+resumen_categoria.to_csv(
+    "outputs/reportes/tendencias_importacion.csv",
+    index=False
+)
+
+print("tendencias_importacion.csv generado")
+
+# ====================================================
+# MÓDULO 3: TOP PRODUCTOS A IMPORTAR MÁS
+# Alta rotación + stock bajo de forma recurrente
+# ====================================================
+
+productos_importar = df[
+    (df["nivel_rotacion"] == "Alta") &
+    (df["urgencia_stock"] >= 0.5)        # stock cerca del mínimo
+].groupby(["categoria", "nombre_producto"]).agg(
+    veces_stock_critico = ("codigo_producto", "count"),
+    ventas_promedio     = ("cantidad_vendida", "mean"),
+    stock_promedio      = ("stock_actual",     "mean"),
+).reset_index().sort_values(
+    ["veces_stock_critico", "ventas_promedio"], ascending=False
+)
+
+productos_importar["recomendacion"] = "Aumentar volumen de importación"
+
+productos_importar.to_csv(
+    "outputs/reportes/productos_a_importar.csv",
+    index=False
+)
+
+print("productos_a_importar.csv generado")
+
+# ====================================================
+# MÓDULO 4: PRODUCTOS A DESCONTINUAR O REDUCIR
+# Baja rotación + sobrestock persistente
+# ====================================================
+
+productos_reducir = df[
+    (df["nivel_rotacion"] == "Baja") &
+    (df["stock_actual"] > df["stock_minimo"] * 2)
+].groupby(["categoria", "nombre_producto"]).agg(
+    veces_sobrestock    = ("codigo_producto", "count"),
+    ventas_promedio     = ("cantidad_vendida", "mean"),
+    stock_promedio      = ("stock_actual",     "mean"),
+).reset_index().sort_values(
+    "veces_sobrestock", ascending=False
+)
+
+productos_reducir["recomendacion"] = "Reducir o no reimportar"
+
+productos_reducir.to_csv(
+    "outputs/reportes/productos_a_reducir.csv",
+    index=False
+)
+
+print("productos_a_reducir.csv generado")
+
+# ====================================================
+# RESUMEN EN CONSOLA
+# ====================================================
+
+print("\n--- DECISIONES DE IMPORTACIÓN POR CATEGORÍA ---")
+print(resumen_categoria[[
+    "categoria", "pct_alta_rotacion", "pct_baja_rotacion", "decision_importacion"
+]].to_string(index=False))
+
+print(f"\nProductos recomendados para aumentar importación: {len(productos_importar)}")
+print(f"Productos recomendados para reducir/no reimportar: {len(productos_reducir)}")
