@@ -1,4 +1,5 @@
 import pandas as pd
+import sqlite3
 import matplotlib.pyplot as plt
 import os
 
@@ -21,10 +22,12 @@ from sklearn.metrics import (
 )
 
 # ==========================
-# CARGAR DATASET
+# CARGAR DATASET DESDE SQLITE
 # ==========================
 
-df = pd.read_csv("data/dataset_modelado.csv")
+conn = sqlite3.connect("data/inventario.db")
+df = pd.read_sql("SELECT * FROM dataset_modelado", conn)
+conn.close()
 
 os.makedirs("outputs/reportes", exist_ok=True)
 os.makedirs("outputs/graficos", exist_ok=True)

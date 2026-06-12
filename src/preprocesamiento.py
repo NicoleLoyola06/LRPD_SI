@@ -1,9 +1,12 @@
 import pandas as pd
+import sqlite3
 from sklearn.preprocessing import MinMaxScaler
 
 print("=== PREPROCESAMIENTO ===")
 
-df = pd.read_csv("data/inventario_oriental.csv")
+conn = sqlite3.connect("data/inventario.db")
+
+df = pd.read_sql("SELECT * FROM inventario", conn)
 
 print("Registros originales:", len(df))
 
@@ -49,10 +52,14 @@ df["nivel_rotacion"] = (
     .apply(clasificar_rotacion)
 )
 
-df.to_csv(
-    "data/inventario_preprocesado.csv",
+df.to_sql(
+    "inventario_preprocesado",
+    conn,
+    if_exists="replace",
     index=False
 )
 
-print("Archivo generado:")
-print("inventario_preprocesado.csv")
+conn.close()
+
+print("Tabla generada en inventario.db:")
+print("inventario_preprocesado")

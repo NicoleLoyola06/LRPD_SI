@@ -1,13 +1,14 @@
 import pandas as pd
+import sqlite3
 import os
 
 print("\n=== AGENTE INTELIGENTE ===")
 
 os.makedirs("outputs/reportes", exist_ok=True)
 
-df = pd.read_csv(
-    "data/dataset_modelado.csv"
-)
+conn = sqlite3.connect("data/inventario.db")
+df = pd.read_sql("SELECT * FROM dataset_modelado", conn)
+conn.close()
 
 # ====================================================
 # MÓDULO 1: RECOMENDACIONES POR PRODUCTO (reglas IF-THEN)
@@ -62,7 +63,6 @@ print("recomendaciones.csv generado")
 
 print("\n=== ANÁLISIS DE IMPORTACIÓN POR CATEGORÍA ===")
 
-# Rotación promedio y ventas promedio por categoría
 resumen_categoria = df.groupby("categoria").agg(
     total_productos     = ("codigo_producto",  "count"),
     ventas_promedio     = ("cantidad_vendida",  "mean"),
@@ -74,7 +74,6 @@ resumen_categoria = df.groupby("categoria").agg(
     stock_promedio      = ("stock_actual",      "mean"),
 ).reset_index()
 
-# Decisión de importación basada en reglas
 def decision_importacion(fila):
     if fila["pct_alta_rotacion"] >= 40:
         return "Aumentar importación"

@@ -1,5 +1,5 @@
 codigo_producto,nombre_producto,categoria,nivel_rotacion,accion
-P0001,Mascarilla coreana,Belleza,Baja,Alerta de sobrestock
+P0001,Mascarilla coreana,Belleza,Baja,Monitorear
 P0002,Sarten antiadherente,Cocina,Alta,Monitorear
 P0003,Repisa modular,Hogar,Baja,Alerta de sobrestock
 P0004,Mini ventilador USB,Electronica,Media,Monitorear
@@ -479,7 +479,7 @@ P0477,Crema hidratante,Belleza,Baja,Monitorear
 P0478,Escoba plegable,Hogar,Media,Monitorear
 P0479,Repisa modular,Hogar,Media,Monitorear
 P0480,Cuaderno kawaii,Papeleria,Alta,Monitorear
-P0481,Palillos chinos,Cocina,Media,Monitorear
+P0481,Palillos chinos,Cocina,Alta,Monitorear
 P0482,Palillos chinos,Cocina,Alta,Monitorear
 P0483,Juguete para perro,Mascotas,Alta,Monitorear
 P0484,Incienso japones,Decoracion,Alta,Monitorear
@@ -499,3 +499,4 @@ P0497,Correa retractil,Mascotas,Alta,Reabastecimiento urgente
 P0498,Incienso japones,Decoracion,Media,Monitorear
 P0499,Mascarilla coreana,Belleza,Alta,Reabastecimiento urgente
 P0500,Polo basico,Ropa,Media,Monitorear
+P0501,Snack importado nuevo,Comida Asiatica,Baja,Alerta de sobrestock

@@ -1,4 +1,5 @@
 import pandas as pd
+import sqlite3
 import os
 
 # ============================================================
@@ -21,7 +22,9 @@ print("\n=== BEST-FIRST SEARCH ===")
 
 os.makedirs("outputs/reportes", exist_ok=True)
 
-df = pd.read_csv("data/dataset_modelado.csv")
+conn = sqlite3.connect("data/inventario.db")
+df = pd.read_sql("SELECT * FROM dataset_modelado", conn)
+conn.close()
 
 rotacion_map = {
     "Alta":  1.0,

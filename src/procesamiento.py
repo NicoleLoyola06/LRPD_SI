@@ -1,10 +1,11 @@
 import pandas as pd
+import sqlite3
 
 print("=== PROCESAMIENTO ===")
 
-df = pd.read_csv(
-    "data/inventario_preprocesado.csv"
-)
+conn = sqlite3.connect("data/inventario.db")
+
+df = pd.read_sql("SELECT * FROM inventario_preprocesado", conn)
 
 # Variables derivadas
 
@@ -24,10 +25,14 @@ df["riesgo_vencimiento"] = (
     df["dias_para_vencer"] < 30
 ).astype(int)
 
-df.to_csv(
-    "data/dataset_modelado.csv",
+df.to_sql(
+    "dataset_modelado",
+    conn,
+    if_exists="replace",
     index=False
 )
 
-print("Archivo generado:")
-print("dataset_modelado.csv")
+conn.close()
+
+print("Tabla generada en inventario.db:")
+print("dataset_modelado")

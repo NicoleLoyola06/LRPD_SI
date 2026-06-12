@@ -15,6 +15,16 @@ os.makedirs(
     exist_ok=True
 )
 
+# INICIALIZAR BASE DE DATOS (solo la primera vez)
+
+if not os.path.exists("data/inventario.db"):
+    exec(
+        open(
+            "src/init_db.py",
+            encoding="utf-8"
+        ).read()
+    )
+
 # PREPROCESAMIENTO
 
 exec(
