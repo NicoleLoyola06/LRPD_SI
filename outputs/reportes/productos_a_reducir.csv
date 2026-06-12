@@ -1,35 +1,36 @@
 categoria,nombre_producto,veces_sobrestock,ventas_promedio,stock_promedio,recomendacion
-Mascotas,Correa retractil,8,25.0,196.0,Reducir o no reimportar
 Ropa,Medias termicas,8,27.5,247.75,Reducir o no reimportar
+Mascotas,Correa retractil,8,25.0,196.0,Reducir o no reimportar
+Electronica,Mini ventilador USB,7,32.0,191.0,Reducir o no reimportar
 Ropa,Polo basico,7,30.285714285714285,142.28571428571428,Reducir o no reimportar
 Ropa,Pijama,7,28.857142857142858,181.28571428571428,Reducir o no reimportar
-Electronica,Mini ventilador USB,7,32.0,191.0,Reducir o no reimportar
 Belleza,Mascarilla coreana,6,22.333333333333332,241.83333333333334,Reducir o no reimportar
 Decoracion,Farol decorativo,6,30.166666666666668,183.5,Reducir o no reimportar
 Hogar,Repisa modular,5,30.4,200.6,Reducir o no reimportar
-Papeleria,Stickers decorativos,5,19.2,191.8,Reducir o no reimportar
 Decoracion,Figura Feng Shui,5,36.6,176.4,Reducir o no reimportar
+Papeleria,Stickers decorativos,5,19.2,191.8,Reducir o no reimportar
 Mascotas,Juguete para perro,4,33.5,262.0,Reducir o no reimportar
 Comida Asiatica,Salsa de soya,4,12.75,165.25,Reducir o no reimportar
-Papeleria,Lapicero gel,3,20.666666666666668,155.0,Reducir o no reimportar
 Belleza,Crema hidratante,3,26.0,187.0,Reducir o no reimportar
+Papeleria,Lapicero gel,3,20.666666666666668,155.0,Reducir o no reimportar
 Cocina,Taza termica,3,31.0,239.66666666666666,Reducir o no reimportar
 Decoracion,Incienso japones,3,39.333333333333336,117.33333333333333,Reducir o no reimportar
+Hogar,Organizador plastico,3,9.666666666666666,149.66666666666666,Reducir o no reimportar
 Mascotas,Arena para gato,3,33.666666666666664,162.66666666666666,Reducir o no reimportar
 Papeleria,Cuaderno kawaii,3,33.666666666666664,219.0,Reducir o no reimportar
-Hogar,Organizador plastico,3,9.666666666666666,149.66666666666666,Reducir o no reimportar
 Hogar,Escoba plegable,3,21.666666666666668,200.33333333333334,Reducir o no reimportar
 Belleza,Cepillo facial,2,28.5,108.0,Reducir o no reimportar
+Cocina,Vaporizador de bambu,2,23.5,106.0,Reducir o no reimportar
 Cocina,Sarten antiadherente,2,27.5,171.5,Reducir o no reimportar
 Cocina,Palillos chinos,2,22.5,146.0,Reducir o no reimportar
 Hogar,Caja multiuso,2,24.5,173.0,Reducir o no reimportar
-Electronica,Audifonos Bluetooth,2,32.0,216.5,Reducir o no reimportar
-Cocina,Vaporizador de bambu,2,23.5,106.0,Reducir o no reimportar
 Mascotas,Plato para mascotas,2,27.0,163.5,Reducir o no reimportar
+Electronica,Audifonos Bluetooth,2,32.0,216.5,Reducir o no reimportar
 Mascotas,Shampoo canino,2,21.0,218.5,Reducir o no reimportar
 Electronica,Luz LED USB,1,44.0,147.0,Reducir o no reimportar
-Electronica,Cable Tipo C,1,50.0,243.0,Reducir o no reimportar
-Comida Asiatica,Fideos udon,1,39.0,272.0,Reducir o no reimportar
-Comida Asiatica,Ramen coreano,1,35.0,126.0,Reducir o no reimportar
 Comida Asiatica,Te verde japones,1,32.0,230.0,Reducir o no reimportar
+Electronica,Cable Tipo C,1,50.0,243.0,Reducir o no reimportar
+Comida Asiatica,Ramen coreano,1,35.0,126.0,Reducir o no reimportar
+Comida Asiatica,Fideos udon,1,39.0,272.0,Reducir o no reimportar
+Comida Asiatica,Snack coreano nuevo,1,0.0,100.0,Reducir o no reimportar
 Comida Asiatica,Snack importado nuevo,1,0.0,100.0,Reducir o no reimportar
