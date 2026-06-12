@@ -24,7 +24,11 @@ if not os.path.exists("data/inventario.db"):
             encoding="utf-8"
         ).read()
     )
-
+    
+# SINCRONIZAR EXCEL → BASE DE DATOS (si el archivo existe)
+import os
+if os.path.exists("data/inventario_editable.xlsx"):
+    exec(open("src/importar_excel.py", encoding="utf-8").read())
 # PREPROCESAMIENTO
 
 exec(
