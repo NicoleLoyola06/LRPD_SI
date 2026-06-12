@@ -1,25 +1,25 @@
-categoria,nombre_producto,veces_stock_critico,ventas_promedio,stock_promedio,recomendacion
-Cocina,Sarten antiadherente,3,131.66666666666666,59.0,Aumentar volumen de importación
-Hogar,Escoba plegable,3,130.66666666666666,39.0,Aumentar volumen de importación
-Ropa,Pijama,2,139.5,33.5,Aumentar volumen de importación
-Papeleria,Cuaderno kawaii,2,128.5,76.0,Aumentar volumen de importación
-Belleza,Mascarilla coreana,2,127.0,44.0,Aumentar volumen de importación
-Cocina,Taza termica,2,127.0,49.0,Aumentar volumen de importación
-Comida Asiatica,Te verde japones,2,122.5,46.5,Aumentar volumen de importación
-Decoracion,Figura Feng Shui,2,114.5,64.0,Aumentar volumen de importación
-Electronica,Luz LED USB,2,111.5,23.0,Aumentar volumen de importación
-Mascotas,Juguete para perro,2,106.5,77.5,Aumentar volumen de importación
-Electronica,Cable Tipo C,2,102.0,65.5,Aumentar volumen de importación
-Electronica,Mini ventilador USB,1,143.0,32.0,Aumentar volumen de importación
-Cocina,Vaporizador de bambu,1,135.0,22.0,Aumentar volumen de importación
-Ropa,Medias termicas,1,130.0,84.0,Aumentar volumen de importación
-Decoracion,Incienso japones,1,127.0,71.0,Aumentar volumen de importación
-Mascotas,Plato para mascotas,1,127.0,16.0,Aumentar volumen de importación
-Mascotas,Shampoo canino,1,127.0,29.0,Aumentar volumen de importación
-Mascotas,Correa retractil,1,126.0,16.0,Aumentar volumen de importación
-Comida Asiatica,Mochi,1,122.0,87.0,Aumentar volumen de importación
-Belleza,Cepillo facial,1,118.0,104.0,Aumentar volumen de importación
-Electronica,Audifonos Bluetooth,1,111.0,22.0,Aumentar volumen de importación
-Papeleria,Stickers decorativos,1,111.0,107.0,Aumentar volumen de importación
-Cocina,Palillos chinos,1,110.0,94.0,Aumentar volumen de importación
-Hogar,Repisa modular,1,107.0,30.0,Aumentar volumen de importación
+categoria,nombre_producto,veces_stock_critico,ventas_promedio,stock_promedio,demanda_proyectada,cantidad_sugerida_importar,recomendacion
+Cocina,Sarten antiadherente,3,131.66666666666666,59.0,157.99999999999997,99,Importar aprox. 99 unidades
+Hogar,Escoba plegable,3,130.66666666666666,39.0,156.79999999999998,118,Importar aprox. 118 unidades
+Ropa,Pijama,2,139.5,33.5,167.4,134,Importar aprox. 134 unidades
+Papeleria,Cuaderno kawaii,2,128.5,76.0,154.2,78,Importar aprox. 78 unidades
+Belleza,Mascarilla coreana,2,127.0,44.0,152.4,108,Importar aprox. 108 unidades
+Cocina,Taza termica,2,127.0,49.0,152.4,103,Importar aprox. 103 unidades
+Comida Asiatica,Te verde japones,2,122.5,46.5,147.0,100,Importar aprox. 100 unidades
+Decoracion,Figura Feng Shui,2,114.5,64.0,137.4,73,Importar aprox. 73 unidades
+Electronica,Luz LED USB,2,111.5,23.0,133.79999999999998,111,Importar aprox. 111 unidades
+Mascotas,Juguete para perro,2,106.5,77.5,127.8,50,Importar aprox. 50 unidades
+Electronica,Cable Tipo C,2,102.0,65.5,122.39999999999999,57,Importar aprox. 57 unidades
+Electronica,Mini ventilador USB,1,143.0,32.0,171.6,140,Importar aprox. 140 unidades
+Cocina,Vaporizador de bambu,1,135.0,22.0,162.0,140,Importar aprox. 140 unidades
+Ropa,Medias termicas,1,130.0,84.0,156.0,72,Importar aprox. 72 unidades
+Decoracion,Incienso japones,1,127.0,71.0,152.4,81,Importar aprox. 81 unidades
+Mascotas,Plato para mascotas,1,127.0,16.0,152.4,136,Importar aprox. 136 unidades
+Mascotas,Shampoo canino,1,127.0,29.0,152.4,123,Importar aprox. 123 unidades
+Mascotas,Correa retractil,1,126.0,16.0,151.2,135,Importar aprox. 135 unidades
+Comida Asiatica,Mochi,1,122.0,87.0,146.4,59,Importar aprox. 59 unidades
+Belleza,Cepillo facial,1,118.0,104.0,141.6,38,Importar aprox. 38 unidades
+Electronica,Audifonos Bluetooth,1,111.0,22.0,133.2,111,Importar aprox. 111 unidades
+Papeleria,Stickers decorativos,1,111.0,107.0,133.2,26,Importar aprox. 26 unidades
+Cocina,Palillos chinos,1,110.0,94.0,132.0,38,Importar aprox. 38 unidades
+Hogar,Repisa modular,1,107.0,30.0,128.4,98,Importar aprox. 98 unidades
