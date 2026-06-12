@@ -84,7 +84,7 @@ Esto corre en orden:
 - **Objetivo:** clasificar el `nivel_rotacion` (Alta / Media / Baja)
 - **Features:** `stock_actual`, `stock_minimo`, `dias_para_vencer`, `urgencia_stock`
 - **Parámetros:** `max_depth=3`, `min_samples_leaf=5`
-- **Resultado:** Accuracy ≈ 0.38, F1 ≈ 0.35
+- **Resultado:** Accuracy ≈ 0.35, F1 ≈ 0.31
 - **¿Por qué árbol de decisión y no SVM?** El árbol produce reglas interpretables (ej. "si stock_actual ≤ 44.5 entonces..."), lo cual es clave para que el negocio entienda y confíe en las decisiones. Un SVM es una caja negra que no permite esa interpretabilidad.
 
 ### Best-First Search
